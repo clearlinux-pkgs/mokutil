@@ -4,7 +4,7 @@
 #
 Name     : mokutil
 Version  : fb6250f23a1dda24000522f1994f70c73407c402
-Release  : 3
+Release  : 4
 URL      : https://github.com/lcp/mokutil/archive/fb6250f23a1dda24000522f1994f70c73407c402.tar.gz
 Source0  : https://github.com/lcp/mokutil/archive/fb6250f23a1dda24000522f1994f70c73407c402.tar.gz
 Summary  : No detailed summary available
